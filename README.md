@@ -1,4 +1,11 @@
 DogCoin
 =======
 
-The Bukkit Plugin &lt;3 (My first :3)
+A Very Simple Economy Plugin For Bukkit :D
+
+
+=======
+Commands
+=======
+/econ - EVERYTHING lol
+
